@@ -1,0 +1,42 @@
+body{
+    font-family: "Roboto", sans-serif;
+}
+
+div {
+    border: 1px solid #fd0f0f;
+}
+
+.header{
+    display: flex;
+    padding: 10px;
+}
+
+.links{
+    display: flex;
+    justify-content: space-between;
+    gap: 15px;
+    align-items: center;
+}
+
+.section1{
+    display: flex;
+    padding: 10px;
+}
+
+.section2{
+    display: flex;
+    justify-content: center;
+}
+
+.boxes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.box-one-container, .box-two-container, .box-three-container, .box-four-container{
+    border-radius: 5px;
+    height: 140px;
+    width: auto;
+}
