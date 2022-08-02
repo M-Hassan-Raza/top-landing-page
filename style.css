@@ -40,6 +40,8 @@ a {
     justify-content: space-around;
     background-color: #1f2937;
     color: #f9faf8;;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 .major-image{
@@ -79,6 +81,7 @@ a {
     justify-content: center;
     align-items: center;
     gap: 20px;
+    
 }
 
 .section-two-text{
@@ -88,6 +91,7 @@ a {
     justify-content: center;
     align-items: center;
     padding: 10px;
+    padding-top: 30px;
     color: #1f2937;
 }
 
@@ -104,7 +108,8 @@ a {
 
 .box-one-text, .box-two-text, .box-three-text, .box-four-text{
     padding: 5px;
-
+    padding-bottom: 30px;
+    width: 200px;
 }
 /* 
 .box-one-container img{
